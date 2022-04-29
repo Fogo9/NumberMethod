@@ -1,22 +1,20 @@
 # **NUMBER METHOD**
 
-# Information
+## INFORMATION
 
 * **According to the value received from the user, a recursive method was written without using a loop.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **n** and **total** are defined with int.
 
 * With the recursive method, the result value is decreased by 5 and increased by 5.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -92,13 +90,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/NumberMethod.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
